@@ -1,6 +1,4 @@
-# Coding task at Visable
-
-## Build a frontend for the NASA TechPort API
+# Build a frontend for the NASA TechPort API
 
 The NASA TechPort API (https://techport.nasa.gov/help/articles/api) exposes project data of NASA related projects. Your task is to build an appealing frontend for browsing through these projects.
 
